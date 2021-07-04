@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/anubiskun/repo">
-    <img src="images/logo.jpg" alt="Logo" width="90" height="90">
+    <img src="http://anubis.6te.net/home/images/git/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">SSH CREATOR</h3>
